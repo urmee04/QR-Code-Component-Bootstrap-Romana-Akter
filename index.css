@@ -1,0 +1,25 @@
+
+    body {
+      font-family: 'Outfit', sans-serif;
+      background-color: hsl(212, 45%, 89%);
+      min-height: 100vh;
+    }
+
+    .card img {
+      border-radius: 0.75rem;
+    }
+
+    footer {
+      font-size: 0.6875rem;
+      color: hsl(218, 44%, 22%);
+    }
+
+    footer a {
+      color: hsl(228, 45%, 44%);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+ 
